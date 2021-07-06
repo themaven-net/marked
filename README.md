@@ -1,3 +1,7 @@
+```diff
+- 7/6/21 - DEPRECATED REPO, NO LONGER USED. This library was used by web-skagit the web frontend for the Salish platform
+```
+
 # marked
 
 > A full-featured markdown parser and compiler, written in JavaScript. Built
